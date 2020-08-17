@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm Cassandra Marcussen. 
+\[ she/her/hers \]
+
+I am a junior at Columbia University studying Mathematics and Computer Science. My interests lie in artificial intelligence, theoretical computer science, and contributing to technology within these fields through efficient computing and low-level optimizations. 
+
+I'm enthusiastic about open source code, machine learning, and the moral and ethical queries surrounding the use of artificial intelligence. A fun fact about me is that I play the cello.
 
 <!--
 **cassmarcussen/cassmarcussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
