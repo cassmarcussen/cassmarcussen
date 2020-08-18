@@ -5,6 +5,8 @@ I am a junior at Columbia University studying Mathematics and Computer Science. 
 
 I'm passionate about open source code, machine learning, and the moral and ethical queries surrounding the use of artificial intelligence. A fun fact about me is that I play the cello.
 
+To contact me, please email me at cem2242@columbia.edu.
+
 <!--
 **cassmarcussen/cassmarcussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
