@@ -1,7 +1,7 @@
 ### Hi! I'm Cassandra Marcussen. 
 \[ she/her/hers \]
 
-I am a rising senior at Columbia University studying Mathematics and Computer Science. Within Computer Science, my interests lie in theoretical computer science and artificial intelligence. Particularly, I am very interested in Complexity Theory, Property Testing, and Information Theory. Within Mathematics, my interests lie in Probability Theory and stochastic processes.
+I am a rising senior at Columbia University studying Computer Science and Mathematics. Within Computer Science, my interests lie in theoretical computer science and artificial intelligence. Particularly, I am very interested in Complexity Theory, Property Testing, and Information Theory. Within Mathematics, my interests lie in Probability Theory and stochastic processes.
 
 I'm also passionate about open source code, machine learning, and the moral and ethical queries surrounding the use of artificial intelligence. A fun fact about me is that I play the cello.
 
