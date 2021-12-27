@@ -1,7 +1,9 @@
 ### Hi! I'm Cassandra Marcussen. 
 \[ she/her/hers \]
 
-I am a senior at Columbia University studying Computer Science and Mathematics. Within Computer Science, my interests lie in theoretical computer science and artificial intelligence. Particularly, I am very interested in Complexity Theory, Property Testing, and Information Theory. Within Mathematics, my interests lie in Probability Theory and stochastic processes.
+I am a senior at Columbia University studying Mathematics and Computer Science. I am interested in theoretical computer science, probability theory, and combinatorics. In particular, I like to think about problems related to stochastic processes, randomized algorithms, computational complexity, property testing, and information theory.
+
+
 
 To contact me, please email me at cem2242@columbia.edu.
 
