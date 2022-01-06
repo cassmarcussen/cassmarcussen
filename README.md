@@ -5,7 +5,8 @@ I am a senior at Columbia University studying Mathematics and Computer Science. 
 
 
 
-To contact me, please email me at cem2242@columbia.edu.
+To contact me, please email me at cem2242@columbia.edu. 
+Website: http://www.columbia.edu/~cem2242/.
 
 <!--
 **cassmarcussen/cassmarcussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
