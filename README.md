@@ -5,4 +5,4 @@ I am a PhD student in the Theory of Computation group at Harvard University. I a
 
 
 To contact me, please email me at cmarcussen@g.harvard.edu. 
-Website: http://www.columbia.edu/~cem2242/.
+Website: [https://cassmarcussen.github.io/](https://cassmarcussen.github.io/).
